@@ -46,3 +46,8 @@ Follow these steps to deploy and access the project in your Google Workspace acc
    ```bash
    clasp open
 
+## Collaborators
+- Afif Jazimin [@L3T0x](https://github.com/L3T0x) - Frontend Developer, Backend Developer, UI/UX Designer
+- Nur Ameera Chan [@ameera-chan](https://github.com/ameera-chan) - Frontend Developer, Backend Developer, UI/UX Designer
+- Aqasha - Frontend Developer, Backend Developer, UI/UX Designer
+
